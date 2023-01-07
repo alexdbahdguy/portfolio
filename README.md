@@ -1,1 +1,2 @@
 # portfolio
+the design was made with html and css.tho at first i had issues with spacing . but with constant practice i came out with something similar to the design the gave out . im here to learn more and gain more knowledge. this is actually my first project here feel free to give me feedback on the design
